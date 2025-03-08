@@ -4,4 +4,4 @@ updates:
     directory: "/"
     schedule:
       interval: "monthly"
-public static void "*"
+unknown static void robots
