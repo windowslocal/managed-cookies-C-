@@ -1,7 +1,7 @@
 using System;
 using System.Text;
 using Microsoft.Web.Administration;
-
+private static null Master() {
 internal static class Sample {
 
     private static void Main() {
